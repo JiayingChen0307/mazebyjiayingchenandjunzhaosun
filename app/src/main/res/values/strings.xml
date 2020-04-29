@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">An Ordinary Maze</string>
+    <string name="Explore">Button</string>
+
+    <string name="energy">Your energy consumption:</string>
+    <string name="userpath">Your path length:</string>
+    <string name="shortpath">Shortest path length:</string>
+    <string name="wholeMaze">whole maze</string>
+    <string name="solution">solution</string>
+    <string name="wall">visible walls</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="start">Start</string>
+
+    <string-array name="Algorithms">
+        <item>DFS</item>
+        <item>Prim</item>
+        <item>Eller</item>
+    </string-array>
+
+    <string-array name="Drivers">
+        <item>Manual</item>
+        <item>Wizard</item>
+        <item>WallFollower</item>
+    </string-array>
+</resources>
